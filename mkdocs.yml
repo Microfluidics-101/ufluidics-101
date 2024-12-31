@@ -2,22 +2,24 @@ site_name: Microfluidics 101
 site_url: https://biodotpe.github.io/ufluidics-101
 theme:
   name: material
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
   features:
     - navigation.footer 
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: slate 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: default
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+    
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
 
 markdown_extensions:
   - attr_list
@@ -35,6 +37,8 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - md_in_html
+  - pymdownx.blocks.caption
 
 plugins:
    - glightbox:
@@ -53,5 +57,12 @@ plugins:
        background: white
        shadow: true
        manual: false
+
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/biodotpe/ufluidics-101
+    - icon: simple/instagram
+      link: https://www.instagram.com/ufluidics_101/
 
 copyright: CC BY 4.0 2024 Pierre Padilla-Huamantinco

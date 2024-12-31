@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Welcome to Microfluidics 101!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the documentation for the Microfluidics 101 project! A repository for concepts, applications, and resources about Microfluidics in Life Science.
 
-## Commands
+Here are some quick links to help you navigate the documentation depending on what you what you want to do:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## What is Microfluidics 101?
 
-## Project layout
+## Why Microfluidics 101?
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Image title](assets/images/intro.jpg){ width="300" }
+
+## Who are Microfluidics 101 for?
+
