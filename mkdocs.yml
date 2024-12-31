@@ -61,8 +61,8 @@ plugins:
 extra:
   social:
     - icon: simple/github
-      link: https://github.com/biodotpe/ufluidics-101
+      link: https://github.com/Microfluidics-101/ufluidics-101
     - icon: simple/instagram
       link: https://www.instagram.com/ufluidics_101/
 
-copyright: CC BY 4.0 2024 Pierre Padilla-Huamantinco
+copyright: CC BY 4.0 2024 Pierre Padilla-Huamantinco and collaborators

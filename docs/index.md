@@ -1,14 +1,25 @@
-# Welcome to Microfluidics 101!
+# Welcome!
 
-Welcome to the documentation for the Microfluidics 101 project! A repository for concepts, applications, and resources about Microfluidics in Life Science.
+_Welcome to the handbook of the Microfluidics 101 project! A repository for concepts, applications, and resources about Microfluidics._
+
+_The Microfluidics 101 project_ seeks to be an open science, open collaboration, and community-driven project. Our goal is to provide all the information that students, professors, researchers, and other practitioners in academia need to ensure that they start with their projects and that they are easy to reproduce and reuse.
+
+!!! tip "Pro Tip"
+
+    The handbook is not meant to be read from start to finish. Start with a concept, tool or method that you need now, in your current work.
+
+## Different pathways (in progress)
 
 Here are some quick links to help you navigate the documentation depending on what you what you want to do:
 
-## What is Microfluidics 101?
+### End-user
 
-## Why Microfluidics 101?
+### Developer
 
-![Image title](assets/images/intro.jpg){ width="300" }
+### Trainer
 
-## Who are Microfluidics 101 for?
+## Communities (in progress)
 
+Connect with microfluidics communities from across the globe that share resources and expertise.
+
+## Contribution
